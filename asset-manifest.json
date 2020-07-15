@@ -1,33 +1,37 @@
 {
   "files": {
-    "main.css": "/myblog/static/css/main.0cfb4055.chunk.css",
-    "main.js": "/myblog/static/js/main.70262742.chunk.js",
-    "main.js.map": "/myblog/static/js/main.70262742.chunk.js.map",
+    "main.css": "/myblog/static/css/main.f381bfc5.chunk.css",
+    "main.js": "/myblog/static/js/main.702d894b.chunk.js",
+    "main.js.map": "/myblog/static/js/main.702d894b.chunk.js.map",
     "runtime-main.js": "/myblog/static/js/runtime-main.58801b33.js",
     "runtime-main.js.map": "/myblog/static/js/runtime-main.58801b33.js.map",
     "static/js/2.b65a0cb0.chunk.js": "/myblog/static/js/2.b65a0cb0.chunk.js",
     "static/js/2.b65a0cb0.chunk.js.map": "/myblog/static/js/2.b65a0cb0.chunk.js.map",
     "index.html": "/myblog/index.html",
-    "precache-manifest.de687f463bf9dba62ef6ffbb05fafbe9.js": "/myblog/precache-manifest.de687f463bf9dba62ef6ffbb05fafbe9.js",
+    "precache-manifest.87bed5d5db83df5044c61c794e6e6420.js": "/myblog/precache-manifest.87bed5d5db83df5044c61c794e6e6420.js",
     "service-worker.js": "/myblog/service-worker.js",
-    "static/css/main.0cfb4055.chunk.css.map": "/myblog/static/css/main.0cfb4055.chunk.css.map",
+    "static/css/main.f381bfc5.chunk.css.map": "/myblog/static/css/main.f381bfc5.chunk.css.map",
     "static/js/2.b65a0cb0.chunk.js.LICENSE.txt": "/myblog/static/js/2.b65a0cb0.chunk.js.LICENSE.txt",
     "static/media/2018Cover.JPG": "/myblog/static/media/2018Cover.7b469854.JPG",
     "static/media/Resume.pdf": "/myblog/static/media/Resume.c6258fe4.pdf",
+    "static/media/_U_move_I_move.PNG": "/myblog/static/media/_U_move_I_move.8dd51fb1.PNG",
     "static/media/bear.JPG": "/myblog/static/media/bear.7b469854.JPG",
     "static/media/blue.JPG": "/myblog/static/media/blue.1adc865b.JPG",
+    "static/media/catAndBird.PNG": "/myblog/static/media/catAndBird.d0a777fb.PNG",
     "static/media/dino.JPG": "/myblog/static/media/dino.22004c4c.JPG",
     "static/media/doMore.JPG": "/myblog/static/media/doMore.d0b4707c.JPG",
     "static/media/logo.png": "/myblog/static/media/logo.6a8622fd.png",
     "static/media/me.JPG": "/myblog/static/media/me.5dee1f12.JPG",
     "static/media/nyc.JPG": "/myblog/static/media/nyc.915f2a98.JPG",
+    "static/media/some_tech_companies.PNG": "/myblog/static/media/some_tech_companies.8b36418a.PNG",
     "static/media/summer2020.JPG": "/myblog/static/media/summer2020.caff5dfc.JPG",
+    "static/media/tech_World.png": "/myblog/static/media/tech_World.864d5415.png",
     "static/media/worry.JPG": "/myblog/static/media/worry.6c05e4ca.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.58801b33.js",
     "static/js/2.b65a0cb0.chunk.js",
-    "static/css/main.0cfb4055.chunk.css",
-    "static/js/main.70262742.chunk.js"
+    "static/css/main.f381bfc5.chunk.css",
+    "static/js/main.702d894b.chunk.js"
   ]
 }

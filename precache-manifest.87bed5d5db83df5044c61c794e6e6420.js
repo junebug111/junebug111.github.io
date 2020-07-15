@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b14a7aaec1c3c1bac9e982783c76658",
+    "revision": "3278f4a78c66a2c6e5bd8bfebd6b384b",
     "url": "/myblog/index.html"
   },
   {
-    "revision": "8ab45e9a73765a92c462",
-    "url": "/myblog/static/css/main.0cfb4055.chunk.css"
+    "revision": "6a55db5812a50dcd4f32",
+    "url": "/myblog/static/css/main.f381bfc5.chunk.css"
   },
   {
     "revision": "fed72921fdc86a229bc7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myblog/static/js/2.b65a0cb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ab45e9a73765a92c462",
-    "url": "/myblog/static/js/main.70262742.chunk.js"
+    "revision": "6a55db5812a50dcd4f32",
+    "url": "/myblog/static/js/main.702d894b.chunk.js"
   },
   {
     "revision": "5c7dce129b8c407747ce",
@@ -32,12 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myblog/static/media/Resume.c6258fe4.pdf"
   },
   {
+    "revision": "8dd51fb15846a3a28c7af53862b0f1fb",
+    "url": "/myblog/static/media/_U_move_I_move.8dd51fb1.PNG"
+  },
+  {
     "revision": "7b46985470ff7101bc505b9ce6b7dc0f",
     "url": "/myblog/static/media/bear.7b469854.JPG"
   },
   {
     "revision": "1adc865b733696fb9e12753675653e27",
     "url": "/myblog/static/media/blue.1adc865b.JPG"
+  },
+  {
+    "revision": "d0a777fbf643180a56e73bf090d0f561",
+    "url": "/myblog/static/media/catAndBird.d0a777fb.PNG"
   },
   {
     "revision": "22004c4c8ae947692d7c0e359ac41428",
@@ -60,8 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myblog/static/media/nyc.915f2a98.JPG"
   },
   {
+    "revision": "8b36418a5eb553b4134b1fa240d3638d",
+    "url": "/myblog/static/media/some_tech_companies.8b36418a.PNG"
+  },
+  {
     "revision": "caff5dfca8406eb9aaefc51131cffd05",
     "url": "/myblog/static/media/summer2020.caff5dfc.JPG"
+  },
+  {
+    "revision": "864d54155df622f5adf75befeca51f56",
+    "url": "/myblog/static/media/tech_World.864d5415.png"
   },
   {
     "revision": "6c05e4cabdc9893285b9e7c9890e3abb",
