@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43cff0406c1afe75a4fcde2011a5535e",
+    "revision": "64587d5845bc590e1dcbe3528fd3f18b",
     "url": "/myblog/index.html"
   },
   {
-    "revision": "4596891f0961655498a0",
+    "revision": "8265e40e47c16cd0f348",
     "url": "/myblog/static/css/main.5b1dc34f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myblog/static/js/2.b65a0cb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4596891f0961655498a0",
-    "url": "/myblog/static/js/main.5d64426e.chunk.js"
+    "revision": "8265e40e47c16cd0f348",
+    "url": "/myblog/static/js/main.aeb2b340.chunk.js"
   },
   {
     "revision": "5c7dce129b8c407747ce",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c6258fe4030396254679cb54f79c460b",
     "url": "/myblog/static/media/Resume.c6258fe4.pdf"
-  },
-  {
-    "revision": "8dd51fb15846a3a28c7af53862b0f1fb",
-    "url": "/myblog/static/media/_U_move_I_move.8dd51fb1.PNG"
   },
   {
     "revision": "7b46985470ff7101bc505b9ce6b7dc0f",
@@ -78,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "864d54155df622f5adf75befeca51f56",
     "url": "/myblog/static/media/tech_World.864d5415.png"
+  },
+  {
+    "revision": "8dd51fb15846a3a28c7af53862b0f1fb",
+    "url": "/myblog/static/media/uMoveiMove.8dd51fb1.PNG"
   },
   {
     "revision": "6c05e4cabdc9893285b9e7c9890e3abb",
