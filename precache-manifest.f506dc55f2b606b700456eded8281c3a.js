@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64587d5845bc590e1dcbe3528fd3f18b",
+    "revision": "88674095c39d2d6e4dfb89f7e7439bfe",
     "url": "/myblog/index.html"
   },
   {
-    "revision": "8265e40e47c16cd0f348",
+    "revision": "e56c10c4f5197768fff3",
     "url": "/myblog/static/css/main.5b1dc34f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myblog/static/js/2.b65a0cb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8265e40e47c16cd0f348",
-    "url": "/myblog/static/js/main.aeb2b340.chunk.js"
+    "revision": "e56c10c4f5197768fff3",
+    "url": "/myblog/static/js/main.801f2eb7.chunk.js"
   },
   {
     "revision": "5c7dce129b8c407747ce",
@@ -41,7 +41,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "d0a777fbf643180a56e73bf090d0f561",
-    "url": "/myblog/static/media/catAndBird.d0a777fb.PNG"
+    "url": "/myblog/static/media/catAndBird.d0a777fb.png"
   },
   {
     "revision": "22004c4c8ae947692d7c0e359ac41428",
@@ -65,11 +65,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8b36418a5eb553b4134b1fa240d3638d",
-    "url": "/myblog/static/media/some_tech_companies.8b36418a.PNG"
+    "url": "/myblog/static/media/some_tech_companies.8b36418a.png"
   },
   {
     "revision": "caff5dfca8406eb9aaefc51131cffd05",
-    "url": "/myblog/static/media/summer2020.caff5dfc.JPG"
+    "url": "/myblog/static/media/summer2020.caff5dfc.jpg"
   },
   {
     "revision": "864d54155df622f5adf75befeca51f56",
@@ -77,7 +77,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8dd51fb15846a3a28c7af53862b0f1fb",
-    "url": "/myblog/static/media/uMoveiMove.8dd51fb1.PNG"
+    "url": "/myblog/static/media/uMoveiMove.8dd51fb1.png"
   },
   {
     "revision": "6c05e4cabdc9893285b9e7c9890e3abb",
