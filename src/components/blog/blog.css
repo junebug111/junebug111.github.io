@@ -1,0 +1,40 @@
+.collections{
+    justify-content: center; 
+    margin: 4rem 6.1rem;
+    margin-right: 4.4rem;
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.collection{
+    padding-bottom: 2em;
+}
+
+.collections img{
+    width: 25em;
+    height: auto;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    cursor: pointer;
+}
+
+p.caption{
+    text-align: center;
+    margin: 0 0; 
+    font-size: 1em; 
+    color: #404040; 
+}
+
+@media only screen and (max-width:720px) {
+    .collections{
+        margin: 2rem 0; 
+    }
+
+    .collections img{
+        width: 20em;
+        height: auto;
+    }
+}
+
+
+

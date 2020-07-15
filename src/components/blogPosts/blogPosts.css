@@ -1,0 +1,110 @@
+.blogPostLayout{ 
+    margin: 4rem 6.1rem;
+    margin-right: 4.4rem;
+}
+
+h1.collectionOfTitle{
+    color: #404040; 
+    text-align: center; 
+    font-family: Futura;
+    font-weight: normal;
+    font-size: 1.5rem;
+    width: 100%;
+    margin: 0 0; 
+}
+
+h3.blurb{
+    color: #404040; 
+    text-align: center; 
+    width: 100%; 
+    font-weight: normal;
+    font-size: 1rem;
+    margin: 0 0;
+    margin-bottom: 4em;
+}
+
+div.allImages{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.allImages img{
+    text-align: center;
+    padding: 1.5em 2em; 
+    padding-top: 0.5em; 
+}
+
+.description{
+    text-align: center; 
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.description img{
+    padding-bottom: 0;
+}
+
+.description p{
+    text-align: center;
+    font-family: 'Karla'; 
+    font-size: 1em; 
+    padding: 1.5em 2em; 
+    padding-top: 0.5em; 
+    margin: 0 0;
+}
+
+.width650{
+    width: 25em;
+    height: auto; 
+}
+
+.width700{
+    width: 27em;
+    height: auto; 
+}
+
+.width750{
+    width: 29em;
+    height: auto; 
+}
+
+.width800{
+    width: 31em;
+    height: auto;
+}
+
+.width850{
+    width: 33em;
+    height: auto;
+}
+
+@media only screen and (max-width:575px){
+    .blogPostLayout{ 
+        margin: 2rem 0.3rem;
+    }
+
+    h3.blurb{
+        margin-bottom: 2rem;
+    }
+
+    .allImages img{ 
+        width: 95%;
+        height: auto;
+        padding: 0.3em 0.3em;
+        padding-bottom: 2em; 
+    }
+
+    .description img{
+        padding-bottom: 0em;
+    }
+
+    .description p{
+        width: 95%; 
+        padding: 0.3em 0.3em; 
+        padding-bottom: 2em;
+    }
+
+}

@@ -1,0 +1,109 @@
+.bio{ 
+    margin: 4rem 7.6rem; 
+    background-color: #D3CEE6;
+    justify-content: center;
+    display: flex; 
+    margin-right: 5.9rem;
+    padding-top: 5.5rem;
+    padding-bottom: 5.5rem;
+    align-items: center;
+    flex-wrap: wrap-reverse;  
+}
+
+.infoAboutMe{
+    display: inline-block; 
+    max-width: 320px; 
+    margin-right: 7.4rem;
+}
+
+h3.intro{
+    font-size: 2rem;
+    font-weight: bold;
+    display:block;
+    margin-bottom: 2em; 
+}
+
+p.moreInfo{
+    font-size: 1.5rem;
+}
+
+img.picOfMe{
+    width: 20.8rem;
+    height: auto; 
+}
+
+@media only screen and (max-width:903px) and (min-width: 675px) {
+    img.picOfMe{
+        width: 400px;
+        height: auto; 
+        text-align: center; 
+    }
+
+    .infoAboutMe{
+        text-align: center;
+        margin-right: 0rem;  
+    }
+
+    h3.intro{
+        font-size: 1.6rem;
+        margin-bottom: 1.6em;
+    }
+
+    p.moreInfo{
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width:675px) and (min-width: 495px) {
+    .bio{
+        margin-top: 3rem;
+        padding-top: 4rem;
+        padding-right: 0rem;
+        padding-bottom: 4rem;
+    }
+
+    .infoAboutMe{
+        text-align: center;
+        margin-right: 0rem; 
+    }
+
+    h3.intro{
+        font-size: 1.2rem;
+        margin-bottom: 1.2em;
+    }
+
+    p.moreInfo{
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width:495px) {
+    .bio{
+        margin: 1.5rem 1rem; 
+        padding-top: 2rem;
+        padding-right: 0rem;
+        padding-bottom: 1em;
+    }
+
+    img.picOfMe{
+        width: 80%;
+        height: auto; 
+        text-align: center; 
+    }
+
+    .infoAboutMe{
+        text-align: center;
+        margin-right: 0rem; 
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+
+    h3.intro{
+        font-size: 1.2rem;
+        margin-bottom: 1.2em;
+    }
+
+    p.moreInfo{
+        font-size: 1rem;
+    }
+}
