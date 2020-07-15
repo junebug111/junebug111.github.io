@@ -8,7 +8,7 @@ class Blog extends React.Component{
             <div className="collections">
                 <Link to="/summer2020">
                     <div className="collection">
-                        <img src={require("./summer2020.JPG")} alt="summer 2020 collection" /> 
+                        <img src={require("./summer2020.jpg")} alt="summer 2020 collection" /> 
                         <p className="caption">Summer 2020 Collection</p>
                     </div>
                 </Link>
