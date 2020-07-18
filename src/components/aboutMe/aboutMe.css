@@ -11,25 +11,40 @@
 }
 
 .infoAboutMe{
+    font-family: 'Karla';
     display: inline-block; 
     max-width: 320px; 
     margin-right: 7.4rem;
 }
 
 h3.intro{
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: bold;
     display:block;
     margin-bottom: 2em; 
 }
 
 p.moreInfo{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 img.picOfMe{
     width: 20.8rem;
     height: auto; 
+}
+.buttons{
+    display: block;
+    text-align: center;
+}
+.buttons img{
+    width: 2.5rem;
+    height: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.buttons img:hover{
+    opacity: 0.5;
 }
 
 @media only screen and (max-width:903px) and (min-width: 675px) {
@@ -75,6 +90,11 @@ img.picOfMe{
     p.moreInfo{
         font-size: 1rem;
     }
+
+    .buttons img{
+        width: 2rem;
+        height: auto;
+    }
 }
 
 @media only screen and (max-width:495px) {
@@ -105,5 +125,10 @@ img.picOfMe{
 
     p.moreInfo{
         font-size: 1rem;
+    }
+
+    .buttons img{
+        width: 1.8rem;
+        height: auto;
     }
 }
