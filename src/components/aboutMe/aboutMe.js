@@ -13,13 +13,13 @@ class AboutMe extends React.Component{
                         passionate advocate of women in tech. I am a New York native. And hopefully, 
                         I will be many more things yet to come.</p>
                     <div className="buttons">
-                        <a href="https://www.linkedin.com/in/christi-kim-a2a837146/" target="_blank">
+                        <a href="https://www.linkedin.com/in/christi-kim-a2a837146/" target="_blank" rel="noopener noreferrer">
                             <img src={require("./buttons/Linkedin_.png")} alt="linkedin"/>
                         </a>
-                        <a href="https://github.com/junebug111" target="_blank">
+                        <a href="https://github.com/junebug111" target="_blank" rel="noopener noreferrer">
                             <img src={require("./buttons/GitHub.png")} alt="github"/>
                         </a>
-                        <a href="https://www.instagram.com/bitsodoodles/" target="_blank">
+                        <a href="https://www.instagram.com/bitsodoodles/" target="_blank" rel="noopener noreferrer">
                             <img src={require("./buttons/Insta.png")} alt="insta"/>
                         </a>
                     </div> 
