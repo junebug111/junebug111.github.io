@@ -33,7 +33,7 @@ div.allImages{
 
 .allImages img{
     text-align: center;
-    padding: 1.5em 2em; 
+    padding: 2em 2em; 
     padding-top: 0.5em; 
 }
 
@@ -82,6 +82,24 @@ div.allImages{
     height: auto;
 }
 
+.width1200{
+    width: 51em;
+    height: auto;
+}
+
+.width1000{
+    width: 47em;
+    height: auto;
+}
+
+@media only screen and (max-width: 910px){
+    .width1200, .width1000{
+        width: 95%;
+        height: auto; 
+        padding: 0.3em 0.3em;
+        padding-bottom: 2em; 
+    }
+}
 @media only screen and (max-width:575px){
     .blogPostLayout{ 
         margin: 2rem 0.3rem;
